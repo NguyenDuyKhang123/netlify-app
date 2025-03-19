@@ -3,7 +3,11 @@
     margin-right: auto;
     width: 400px;
     text-align: center;
+    background-color: #f5f5dc;
+    border: 1px solid black;
+    padding: 20px;
 }
+
 h1 {
-    color: red;
+    color: #ff0000;
 }
